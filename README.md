@@ -4,9 +4,6 @@
 ### 3D_CAD_software(Fusion360, catia, NX, Autocad) newbie
 ### PLC(LS Electric) newbie
 
-###
-###
-###
 <!--
 **RohWS/RohWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
