@@ -1,6 +1,6 @@
 ### Hi there 👋
-ROS1, ROS2 Newbie
-FIRMWARE newbie
+##ROS1, ROS2 Newbie
+##FIRMWARE newbie
 3D_CAD_software(Fusion360, catia, NX, Autocad) newbie
 PLC(LS Electric) newbie
 
